@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB6C28&vCenter=true&width=435&lines=My+feet+is+my+only+carriage%2C;and+so+I've+got+to+push+on+through." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB6C28&vCenter=true&width=435&lines=My+feet+is+my+only+carriage%2C+and+so+I've+got+to+push+on+through." alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m @wenlishi
 - 👀 I’m interested in human...
