@@ -6,6 +6,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=wenlishi&abbreviated=true&color=yellow" />
+<a href="https://github.com/wenlishi"><img src="https://img.shields.io/badge/GitHub-wenlishi-blue?logo=github" /></a>
+<a href="https://yxn4065.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-Xenon_AI-red" /></a>
+<img src="https://img.shields.io/badge/QQ-3197066040-green?logo=tencentqq" />
+<img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
+</p>
+
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 
