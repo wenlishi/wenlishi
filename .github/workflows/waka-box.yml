@@ -1,0 +1,16 @@
+name: Update Productive Box
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天半夜运行
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: techinpark/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: Asia/Shanghai
