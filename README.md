@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wenlishi&abbreviated=true&color=yellow" />
 <a href="https://github.com/wenlishi"><img src="https://img.shields.io/badge/GitHub-wenlishi-blue?logo=github" /></a>
-<a href="https://blog.puber.top"><img src="https://img.shields.io/badge/blog-puber" /></a>
+<a href="https://blog.puber.top"><img src="https://img.shields.io/badge/blog-泡泡吐puber-red" /></a>
 <img src="https://img.shields.io/badge/QQ-3197066040-green?logo=tencentqq" />
 <img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
