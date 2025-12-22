@@ -34,11 +34,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhu-hai/)
+- [使用 JitPack 托管 Spring Boot Starter，实现跨项目的通用模块统一管理](https://blog.puber.top/archives/publish-spring-boot-starter-with-jitpack)
+- [Java 异常机制：为什么 if-else 不能替代 throw？](https://blog.puber.top/archives/why-use-exceptions-instead-of-if-else-in-java)
+- [Java 并发性能的分析与实践](https://blog.puber.top/archives/java-bing-fa-xing-neng-de-fen-xi-yu-shi-jian)
+- [数据结构学习笔记：“堆”的实现和应用](https://blog.puber.top/archives/heap-data-structure-implementation-applications)
+- [一篇由 LeetCode 官方题解引发的“有限自动机”学习笔记](https://blog.puber.top/archives/java-myatoi-state-machine-solution)
 <!-- feed end -->
 
 </td></tr>
