@@ -15,6 +15,71 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 107 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                71 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌆 Daytime                144 commits         ██████████░░░░░░░░░░░░░░░   38.61 % 
+🌃 Evening                154 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Friday                   97 commits          ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Sunday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Java                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/12/2025 02:53:19 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
