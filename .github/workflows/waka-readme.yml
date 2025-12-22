@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"       # 不显示操作系统 (省空间)
           SHOW_EDITORS: "False"  # 不显示编辑器 (省空间)
+          SHOW_PROFILE_VIEWS : "False" #不显示浏览次数
           SHOW_TIME: "True"      # 显示具体时间
           SHOW_LANGUAGE: "True"  # 显示语言分布
           SHOW_TOTAL: "True"     # 显示总时长
