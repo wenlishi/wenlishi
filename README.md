@@ -32,19 +32,30 @@
 <div align="center">
   <table style="width:100%;">
     <tr>
-      <!-- 第一个图片 -->
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+          <img height='200' src="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+        </picture>
       </td>
-      <!-- 第二个图片 -->
+      
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+          <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+        </picture>
       </td>
     </tr>
-    <!-- 第三个图片 -->
+    
     <tr>
       <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-dark&hide_border=true&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
+          <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
+        </picture>
       </td>
     </tr>
   </table>
