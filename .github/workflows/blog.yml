@@ -27,7 +27,7 @@ jobs:
           # 选项：显示最近多少篇文章 (默认是 4)
           max_entries: 4
           # 选项：文章链接的格式
-          format: "- [${title}](${url})"
+          format: "- ${year}-${month}-${day} [${title}](${url})"
 
       - name: Commit & Push
         uses: sarisia/actions-commit@master
