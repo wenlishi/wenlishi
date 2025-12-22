@@ -31,7 +31,7 @@
   
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="88" src="" />
 
 <!-- feed start -->
 - 2025-12-2 [使用 JitPack 托管 Spring Boot Starter，实现跨项目的通用模块统一管理](https://blog.puber.top/archives/publish-spring-boot-starter-with-jitpack)
