@@ -1,0 +1,36 @@
+name: Recent Blog
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天 UTC时间 0点 (北京时间早上8点) 自动运行
+  workflow_dispatch:    # 允许你在 Actions 页面手动点击 "Run workflow" 按钮触发
+
+jobs:
+  update-blog:
+    runs-on: ubuntu-latest
+    name: Update Blog Posts in README
+    
+    # ⚠️ 关键设置：给予机器人修改仓库文件的权限
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull RSS Feed
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          # 👇 这里已经改成了你的 Halo 博客 RSS 地址
+          url: "https://blog.puber.top/rss.xml"
+          file: "README.md"
+          # 选项：显示最近多少篇文章 (默认是 4)
+          max_entries: 4
+          # 选项：文章链接的格式
+          format: "- [${title}](${url})"
+
+      - name: Commit & Push
+        uses: sarisia/actions-commit@master
+        with:
+          # 自定义提交时的说明文字
+          message: "docs: update latest blog posts automatically"
