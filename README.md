@@ -34,11 +34,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- [使用 JitPack 托管 Spring Boot Starter，实现跨项目的通用模块统一管理](https://blog.puber.top/archives/publish-spring-boot-starter-with-jitpack)
-- [Java 异常机制：为什么 if-else 不能替代 throw？](https://blog.puber.top/archives/why-use-exceptions-instead-of-if-else-in-java)
-- [Java 并发性能的分析与实践](https://blog.puber.top/archives/java-bing-fa-xing-neng-de-fen-xi-yu-shi-jian)
-- [数据结构学习笔记：“堆”的实现和应用](https://blog.puber.top/archives/heap-data-structure-implementation-applications)
-- [一篇由 LeetCode 官方题解引发的“有限自动机”学习笔记](https://blog.puber.top/archives/java-myatoi-state-machine-solution)
+- 2025-12-2 [使用 JitPack 托管 Spring Boot Starter，实现跨项目的通用模块统一管理](https://blog.puber.top/archives/publish-spring-boot-starter-with-jitpack)
+- 2025-11-29 [Java 异常机制：为什么 if-else 不能替代 throw？](https://blog.puber.top/archives/why-use-exceptions-instead-of-if-else-in-java)
+- 2025-10-25 [Java 并发性能的分析与实践](https://blog.puber.top/archives/java-bing-fa-xing-neng-de-fen-xi-yu-shi-jian)
+- 2025-10-16 [数据结构学习笔记：“堆”的实现和应用](https://blog.puber.top/archives/heap-data-structure-implementation-applications)
+- 2025-10-12 [一篇由 LeetCode 官方题解引发的“有限自动机”学习笔记](https://blog.puber.top/archives/java-myatoi-state-machine-solution)
 <!-- feed end -->
 
 </td></tr>
