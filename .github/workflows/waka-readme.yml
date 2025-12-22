@@ -20,3 +20,4 @@ jobs:
           SHOW_TIME: "True"      # 显示具体时间
           SHOW_LANGUAGE: "True"  # 显示语言分布
           SHOW_TOTAL: "True"     # 显示总时长
+          SHOW_TOTAL_CODE_TIME : "False" 
