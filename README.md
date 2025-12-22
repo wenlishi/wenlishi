@@ -14,6 +14,33 @@
 <img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
+---
+
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
