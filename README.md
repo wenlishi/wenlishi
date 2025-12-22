@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=wenlishi&abbreviated=true&color=yellow" />
 <a href="https://github.com/wenlishi"><img src="https://img.shields.io/badge/GitHub-wenlishi-blue?logo=github" /></a>
 <a href="https://blog.puber.top"><img src="https://img.shields.io/badge/blog-泡泡吐puber-red" /></a>
