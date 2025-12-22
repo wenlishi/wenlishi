@@ -1,0 +1,21 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天半夜 0 点自动运行
+  workflow_dispatch: # 允许你手动点击运行
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"       # 不显示操作系统 (省空间)
+          SHOW_EDITORS: "False"  # 不显示编辑器 (省空间)
+          SHOW_TIME: "True"      # 显示具体时间
+          SHOW_LANGUAGE: "True"  # 显示语言分布
+          SHOW_TOTAL: "True"     # 显示总时长
