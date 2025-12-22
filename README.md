@@ -51,7 +51,7 @@
     <tr>
       <td colspan="2" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-dark&hide_border=true&area=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=xcode&hide_border=true&area=true" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
           <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
         </picture>
