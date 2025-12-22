@@ -33,19 +33,19 @@
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
-          <img height='200' src="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
-        </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=wenlishi&show_icons=true" />
+      </picture>
       </td>
       
       <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
-          <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
-        </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+      </picture>
       </td>
     </tr>
     
