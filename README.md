@@ -14,6 +14,8 @@
 <img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
 </p>
 
+### 📊 WakaTime
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
