@@ -12,6 +12,7 @@
 <a href="https://blog.puber.top"><img src="https://img.shields.io/badge/blog-泡泡吐puber-red" /></a>
 <img src="https://img.shields.io/badge/QQ-3197066040-green?logo=tencentqq" />
 <img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
+<a href="https://wakatime.com/@wenlishi"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </p>
 
 ---
