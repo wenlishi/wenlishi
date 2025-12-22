@@ -133,10 +133,6 @@ Java                     2 repos             ██████░░░░░�
 
 
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact" /> </div>
-
-
-
 <!---
 wenlishi/wenlishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
