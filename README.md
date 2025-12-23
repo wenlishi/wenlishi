@@ -8,7 +8,7 @@
 <a href="https://blog.puber.top"><img src="https://img.shields.io/badge/blog-泡泡吐puber-red" /></a>
 <img src="https://img.shields.io/badge/QQ-3197066040-green?logo=tencentqq" />
 <img href="mailto:huanshan357@gmail.com" src="https://img.shields.io/badge/huanshan357@gmail.com-D14836?logo=gmail&logoColor=white" />
-<a href="https://wakatime.com/@wenlishi"><img src="https://wakatime.com/badge/user/3f44adda-f0a2-4227-9ced-bbf81bf97b1b.svg" /></a>
+<a href="https://wakatime.com/@wenlishi"><img src="https://wakatime.com/badge/user/3f44adda-f0a2-4227-9ced-bbf81bf97b1b.svg?v=1" /></a>
 </div>
 
 ---
