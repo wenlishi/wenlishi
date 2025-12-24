@@ -67,9 +67,9 @@
     <tr>
       <td colspan="2" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=xcode&hide_border=true&area=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
-          <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=xcode&hide_border=true&area=true&t=1224" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true&t=1224" />
+          <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=wenlishi&theme=github-compact&hide_border=true&area=true&t=1224" />
         </picture>
       </td>
     </tr>
