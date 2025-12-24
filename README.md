@@ -58,9 +58,9 @@
       </td>
       <td style="width:50%;" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-wenlishi.vercel.app/api/top-langs/?username=wenlishi&layout=compact&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-wenlishi.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
-          <img height="200" src="https://github-readme-stats-wenlishi.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tau-taupe-82.vercel.app/api/top-langs/?username=wenlishi&layout=compact&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tau-taupe-82.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
+          <img height="200" src="https://github-readme-stats-tau-taupe-82.vercel.app/api/top-langs/?username=wenlishi&layout=compact" />
         </picture>
       </td>
     </tr>
