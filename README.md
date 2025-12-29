@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FB6C28&center=true&vCenter=true&width=1200&lines=My+feet+is+my+only+carriage%2C+and+so+I've+got+to+push+on+through.;%E6%97%A0%E9%9E%8D%E6%97%A0%E9%A9%AC%EF%BC%8C%E5%94%AF%E7%BF%85%E8%86%80%E4%B8%8E%E9%95%BF%E7%A9%BA%E3%80%82" alt="Typing SVG" /></a>
 
-
+![aboutme.jpg](https://blog.puber.top//upload/aboutme.jpg)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wenlishi&abbreviated=true&color=yellow" />
