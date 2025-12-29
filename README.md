@@ -20,10 +20,14 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;你好，我是puber小李。热爱编程、骑行、喜欢口琴，不过水平有点烂。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+**Java Backend Developer** ☕ | **GIS Researcher** 🗺️ | **Master's Student** 🎓
+
+你好，我是 Puber小李，一名热爱编程的研三学生。
+我热衷于用代码构建高效的系统，无论是处理复杂的空间数据，还是设计优雅的后端架构。
+
+* **正在做的事**：撰写关于赣州产业格局的论文 & 寻找一份 Java 开发工作。
+* **擅长的技术**：Spring Boot 全家桶、PostGIS 空间数据库、Docker 容器化。
+* **生活中的我**：热爱骑行与口琴（虽然水平有限，但热情无限）。
 
 </td></tr>
 
