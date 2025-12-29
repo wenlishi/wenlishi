@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="./assets/aboutme.jpg" alt="aboutme" width="50%" />
+<img src="./assets/aboutme.jpg" alt="aboutme" width="40%" />
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=wenlishi&abbreviated=true&color=yellow" />
 <a href="https://github.com/wenlishi"><img src="https://img.shields.io/badge/GitHub-wenlishi-blue?logo=github" /></a>
