@@ -127,10 +127,12 @@ Sunday                   63 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 mins              █████████████████████████   100.00 % 
+Java                     8 mins              █████████████████████░░░░   84.96 % 
+Git                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🐱‍💻 Projects: 
-My-Algo-Journey          3 mins              █████████████████████████   100.00 % 
+My-Algo-Journey          10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +152,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 02:24:54 UTC
+ Last Updated on 21/02/2026 02:11:32 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
