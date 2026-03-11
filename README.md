@@ -127,11 +127,13 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 32 mins        █████████████████████████   99.65 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   57 mins             ███████████████████░░░░░░   75.23 % 
+Batchfile                18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-ganzhou-industry-mining  1 hr 32 mins        █████████████████████████   100.00 % 
+ganzhou-industry-mining  54 mins             ██████████████████░░░░░░░   72.41 % 
+tiku_software            20 mins             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
 ```
 
 **I Mostly Code in Python** 
@@ -151,7 +153,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2026 02:13:45 UTC
+ Last Updated on 11/03/2026 02:12:52 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
