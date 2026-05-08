@@ -127,10 +127,15 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 hrs 36 mins       █████████████████████████   98.18 % 
+Image (svg)              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CompositePattern         1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+BridgePattern            53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+DecoratorPattern         37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Builder                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+PrototypeMode            32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 ```
 
 **I Mostly Code in Python** 
@@ -150,7 +155,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 03:27:43 UTC
+ Last Updated on 08/05/2026 03:24:08 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
