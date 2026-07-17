@@ -127,14 +127,13 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   52 mins             ██████████████░░░░░░░░░░░   55.90 % 
-Batchfile                34 mins             █████████░░░░░░░░░░░░░░░░   36.47 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Python                   52 mins             ███████████████░░░░░░░░░░   59.51 % 
+Batchfile                28 mins             ████████░░░░░░░░░░░░░░░░░   32.37 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🐱‍💻 Projects: 
-tiku_software            1 hr 20 mins        ██████████████████████░░░   86.31 % 
-springboot入职前学习          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Administrator            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+tiku_software            1 hr 20 mins        ███████████████████████░░   91.88 % 
+springboot入职前学习          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -154,7 +153,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 02:46:17 UTC
+ Last Updated on 17/07/2026 02:48:56 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
