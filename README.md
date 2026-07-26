@@ -127,15 +127,13 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 22 mins        ███████████████████░░░░░░   76.47 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Java                     1 hr 22 mins        ████████████████████░░░░░   81.28 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🐱‍💻 Projects: 
-springboot入职前学习          1 hr 44 mins        ████████████████████████░   96.14 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+springboot入职前学习          1 hr 37 mins        ████████████████████████░   95.87 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 **I Mostly Code in Python** 
@@ -155,7 +153,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:49:35 UTC
+ Last Updated on 26/07/2026 03:13:43 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
