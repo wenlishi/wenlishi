@@ -127,13 +127,12 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 22 mins        ████████████████████░░░░░   81.28 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Java                     55 mins             █████████████████████░░░░   83.17 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 
 🐱‍💻 Projects: 
-springboot入职前学习          1 hr 37 mins        ████████████████████████░   95.87 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+springboot入职前学习          1 hr 2 mins         ███████████████████████░░   93.73 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 **I Mostly Code in Python** 
@@ -153,7 +152,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 03:13:43 UTC
+ Last Updated on 27/07/2026 03:23:42 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
