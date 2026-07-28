@@ -88,6 +88,8 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%202%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -127,12 +129,39 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     55 mins             █████████████████████░░░░   83.17 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+JSON                     21 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Text                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-springboot入职前学习          1 hr 2 mins         ███████████████████████░░   93.73 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+个人轨迹管理与分析系统              31 mins             ████████████████░░░░░░░░░   64.56 % 
+我与公司学习活动                 17 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 49 mins (100.0%)
+
+✍️ 289 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 136,182 Input Tokens, 16,241 Output Tokens
+
+💵 $0.65 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 13 AI Prompts
+
+Deepseek                 249 lines           ██████████████████████░░░   86.16 % 
+K                        40 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 230 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -152,7 +181,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:23:42 UTC
+ Last Updated on 28/07/2026 02:41:51 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
