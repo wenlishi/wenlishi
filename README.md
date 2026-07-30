@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,38 +129,42 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     21 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
-Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Text                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-JavaScript               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+JavaScript               41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Vue                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🐱‍💻 Projects: 
-个人轨迹管理与分析系统              31 mins             ████████████████░░░░░░░░░   64.56 % 
-我与公司学习活动                 17 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
+个人轨迹管理与分析系统              2 hrs 7 mins        ████████████████░░░░░░░░░   63.69 % 
+quick-capture            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+我与公司学习活动                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+电力业务                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+自动截图                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 20 mins (100.0%)
 
-✍️ 289 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,494 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 136,182 Input Tokens, 16,241 Output Tokens
+🔤 7,328,616 Input Tokens, 110,163 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $23.64 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 13 AI Prompts
+🧠 13 AI Sessions, 44 AI Prompts
 
-Deepseek                 249 lines           ██████████████████████░░░   86.16 % 
-K                        40 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Glm                      2,770 lines         ███████████████████░░░░░░   74.46 % 
+Deepseek                 884 lines           ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+K                        66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 230 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -181,7 +185,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:48:45 UTC
+ Last Updated on 30/07/2026 02:33:44 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
