@@ -129,32 +129,32 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-JavaScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Vue                      41 mins             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+JavaScript               33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Python                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 🐱‍💻 Projects: 
-个人轨迹管理与分析系统              1 hr 39 mins        ████████████████░░░░░░░░░   62.14 % 
-quick-capture            22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-电力业务                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-自动截图                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Obsidian Vault           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+个人轨迹管理与分析系统              1 hr 36 mins        ███████████████░░░░░░░░░░   61.22 % 
+quick-capture            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+电力业务                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+自动截图                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Obsidian Vault           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 37 mins (100.0%)
 
 ✍️ 3,270 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,511,766 Input Tokens, 100,578 Output Tokens
+🔤 7,444,379 Input Tokens, 99,356 Output Tokens
 
-💵 $24.04 Estimated AI Cost This Week
+💵 $23.82 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
 Glm                      2,770 lines         ████████████████████░░░░░   79.23 % 
 Deepseek                 700 lines           █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
@@ -163,7 +163,7 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 52 characters per prompt
+📝 Concise Prompter — average 54 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -185,7 +185,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 02:43:27 UTC
+ Last Updated on 05/08/2026 02:42:01 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
