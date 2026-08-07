@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -102,65 +102,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                155 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌆 Daytime                322 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
-🌃 Evening                292 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Friday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 5 mins              █████████████████████████   99.34 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🐱‍💻 Projects: 
-Obsidian Vault           2 mins              █████████████░░░░░░░░░░░░   53.67 % 
-Administrator            2 mins              ███████████░░░░░░░░░░░░░░   45.63 % 
-quick-capture            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 mins (100.0%)
-
-✍️ 65 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 251,945 Input Tokens, 5,434 Output Tokens
-
-💵 $0.84 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 5 AI Prompts
-
-Deepseek                 65 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 23 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -178,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:44:05 UTC
+ Last Updated on 07/08/2026 02:46:05 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
