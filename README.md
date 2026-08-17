@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,44 +129,44 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-XML                      6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Markdown                 6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Other                    2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Java                     8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+XML                      6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Markdown                 6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Other                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🐱‍💻 Projects: 
-预测项目                     9 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
-th-pinc-tile-starter     6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-th-pinc-dccockpit        4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Obsidian Vault           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-电力拓扑                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+预测项目                     9 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.10 % 
+th-pinc-tile-starter     6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+th-pinc-dccockpit        4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Obsidian Vault           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+电力拓扑                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 46 mins (94.55%)
+⏱ AI Coding Time: 28 hrs 45 mins (94.36%)
 
-✍️ 14,701 lines written by AI, 385 lines written by hand (97.45% AI-written)
+✍️ 14,817 lines written by AI, 391 lines written by hand (97.43% AI-written)
 
-🔤 16,155,462 Input Tokens, 304,201 Output Tokens
+🔤 16,632,762 Input Tokens, 325,054 Output Tokens
 
-💵 $81.43 Estimated AI Cost This Week
+💵 $86.29 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 597 AI Prompts
+🧠 68 AI Sessions, 635 AI Prompts
 
-Github-Copilot           8,302 lines         █████████████████░░░░░░░░   69.58 % 
-Glm                      2,994 lines         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Qwen                     635 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Github-Copilot           8,302 lines         █████████████████░░░░░░░░   68.91 % 
+Glm                      3,110 lines         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Qwen                     635 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📄 Detailed Prompter — average 1,160 characters per prompt
+🤖 AI-Driven — 97.43% of written lines came from AI
+📄 Detailed Prompter — average 1,103 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 2.64% of changed lines were hand-edited
+🚀 High AI Trust — 3.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +186,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:25:26 UTC
+ Last Updated on 17/08/2026 01:22:30 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
