@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,44 +129,44 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Java                     4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Python                   2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Java                     4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Markdown                 3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+XML                      3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🐱‍💻 Projects: 
-th-pinc-dccockpit        8 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-th-pinc-tile-starter     4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-langgraph                3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-预测项目                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Obsidian Vault           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+th-pinc-dccockpit        10 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.92 % 
+langgraph                4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+markdown2feishuDoc       2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+th-pinc-tile-starter     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+预测项目                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 41 mins (93.55%)
+⏱ AI Coding Time: 23 hrs 20 mins (93.31%)
 
-✍️ 9,551 lines written by AI, 238 lines written by hand (97.57% AI-written)
+✍️ 8,683 lines written by AI, 941 lines written by hand (90.22% AI-written)
 
-🔤 15,684,676 Input Tokens, 344,435 Output Tokens
+🔤 35,463,341 Input Tokens, 422,254 Output Tokens
 
-💵 $95.54 Estimated AI Cost This Week
+💵 $151.75 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 487 AI Prompts
+🧠 60 AI Sessions, 466 AI Prompts
 
-Glm                      3,220 lines         ████████████░░░░░░░░░░░░░   47.26 % 
-Github-Copilot           3,108 lines         ███████████░░░░░░░░░░░░░░   45.62 % 
-Deepseek                 361 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Qwen                     124 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Glm                      4,034 lines         █████████████████░░░░░░░░   67.73 % 
+Qwen                     1,084 lines         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Github-Copilot           477 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Deepseek                 361 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.57% of written lines came from AI
-📚 Verbose Prompter — average 1,657 characters per prompt
+🤖 AI-Driven — 90.22% of written lines came from AI
+📄 Detailed Prompter — average 1,179 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.29% of changed lines were hand-edited
+🚀 High AI Trust — 17.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +186,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 01:21:20 UTC
+ Last Updated on 20/08/2026 01:20:25 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
