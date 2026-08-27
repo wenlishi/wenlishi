@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-199%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,43 +129,42 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 18 mins      █████████████░░░░░░░░░░░░   50.19 % 
-Python                   4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Java                     3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-XML                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Vue                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 13 hrs 52 mins      █████████████░░░░░░░░░░░░   52.24 % 
+Java                     6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+XML                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Python                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Vue                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🐱‍💻 Projects: 
-th-pinc-dccockpit        15 hrs              ██████████████░░░░░░░░░░░   56.60 % 
-软件架构设计                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-markdown2feishuDoc       2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-langgraph                1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-预测项目                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+th-pinc-dccockpit        18 hrs 46 mins      ██████████████████░░░░░░░   70.66 % 
+软件架构设计                   4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TFS自动新建任务                1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+th-pinc-dccockpit-system-56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+8月                       29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 11 mins (95.05%)
+⏱ AI Coding Time: 24 hrs 59 mins (94.06%)
 
-✍️ 9,922 lines written by AI, 788 lines written by hand (92.64% AI-written)
+✍️ 8,770 lines written by AI, 128 lines written by hand (98.56% AI-written)
 
-🔤 46,833,546 Input Tokens, 922,590 Output Tokens
+🔤 25,955,213 Input Tokens, 983,139 Output Tokens
 
-💵 $369.36 Estimated AI Cost This Week
+💵 $388.17 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 539 AI Prompts
+🧠 34 AI Sessions, 562 AI Prompts
 
-Glm                      5,194 lines         █████████████░░░░░░░░░░░░   52.05 % 
-Claude-Code              3,824 lines         ██████████░░░░░░░░░░░░░░░   38.32 % 
-Qwen                     960 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              6,517 lines         ██████████████████░░░░░░░   73.90 % 
+Glm                      2,269 lines         ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Qwen                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.64% of written lines came from AI
-📄 Detailed Prompter — average 688 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 13.28% of changed lines were hand-edited
+🤖 AI-Driven — 98.56% of written lines came from AI
+📄 Detailed Prompter — average 731 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 1.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -185,7 +184,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:24:50 UTC
+ Last Updated on 27/08/2026 08:09:46 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
