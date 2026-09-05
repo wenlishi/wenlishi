@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,40 +129,40 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     18 hrs 48 mins      ███████████████░░░░░░░░░░   60.48 % 
-Markdown                 7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Python                   1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Java                     16 hrs 53 mins      ██████████████░░░░░░░░░░░   55.07 % 
+Markdown                 7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Python                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Graphviz (DOT)           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-系统架构设计                   13 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.08 % 
-ThisWeek                 11 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.16 % 
-th-pinc-dccockpit        3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-patterns                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-cache-demo               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+ThisWeek                 16 hrs 23 mins      █████████████░░░░░░░░░░░░   53.43 % 
+系统架构设计                   10 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.17 % 
+th-pinc-dccockpit        1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+patterns                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+小红书                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 53 mins (80.01%)
+⏱ AI Coding Time: 25 hrs 17 mins (82.44%)
 
-✍️ 10,651 lines written by AI, 696 lines written by hand (93.87% AI-written)
+✍️ 12,090 lines written by AI, 547 lines written by hand (95.67% AI-written)
 
-🔤 3,966,741 Input Tokens, 864,370 Output Tokens
+🔤 3,080,557 Input Tokens, 933,724 Output Tokens
 
-💵 $1303.08 Estimated AI Cost This Week
+💵 $1177.82 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 660 AI Prompts
+🧠 21 AI Sessions, 631 AI Prompts
 
-Claude-Code              11,065 lines        █████████████████████████   100.00 % 
+Claude-Code              12,425 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.87% of written lines came from AI
-📝 Concise Prompter — average 238 characters per prompt
-🔁 Iterative Prompter — average 31 prompts per session
-🚀 High AI Trust — 8.81% of changed lines were hand-edited
+🤖 AI-Driven — 95.67% of written lines came from AI
+📝 Concise Prompter — average 152 characters per prompt
+🔁 Iterative Prompter — average 30 prompts per session
+🚀 High AI Trust — 6.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -182,7 +182,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:30:18 UTC
+ Last Updated on 05/09/2026 03:31:36 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
