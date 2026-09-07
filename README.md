@@ -129,40 +129,40 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     16 hrs 26 mins      ██████████████░░░░░░░░░░░   54.41 % 
-Markdown                 7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Python                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-YAML                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Graphviz (DOT)           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Java                     14 hrs 52 mins      █████████████░░░░░░░░░░░░   52.19 % 
+Markdown                 7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Python                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Graphviz (DOT)           50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🐱‍💻 Projects: 
-ThisWeek                 16 hrs 23 mins      ██████████████░░░░░░░░░░░   54.24 % 
-系统架构设计                   9 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-th-pinc-dccockpit        1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-patterns                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-小红书                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+ThisWeek                 16 hrs 23 mins      ██████████████░░░░░░░░░░░   57.48 % 
+系统架构设计                   8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+th-pinc-dccockpit        1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+patterns                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+小红书                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 50 mins (82.22%)
+⏱ AI Coding Time: 23 hrs 39 mins (82.98%)
 
-✍️ 11,864 lines written by AI, 533 lines written by hand (95.7% AI-written)
+✍️ 11,347 lines written by AI, 497 lines written by hand (95.8% AI-written)
 
-🔤 3,070,207 Input Tokens, 915,673 Output Tokens
+🔤 3,057,202 Input Tokens, 873,963 Output Tokens
 
-💵 $1150.50 Estimated AI Cost This Week
+💵 $1061.69 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 609 AI Prompts
+🧠 19 AI Sessions, 565 AI Prompts
 
-Claude-Code              12,199 lines        █████████████████████████   100.00 % 
+Claude-Code              11,682 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.7% of written lines came from AI
-📝 Concise Prompter — average 155 characters per prompt
+🤖 AI-Driven — 95.8% of written lines came from AI
+📝 Concise Prompter — average 166 characters per prompt
 🔁 Iterative Prompter — average 30 prompts per session
-🚀 High AI Trust — 5.92% of changed lines were hand-edited
+🚀 High AI Trust — 5.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -182,7 +182,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 03:32:08 UTC
+ Last Updated on 07/09/2026 03:32:23 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
