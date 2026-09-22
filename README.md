@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,43 +129,43 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Markdown                 11 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   30.43 % 
-YAML                     5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-XML                      2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 13 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.24 % 
+Java                     11 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   30.93 % 
+YAML                     4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🐱‍💻 Projects: 
-th-pinc-dccockpit        16 hrs 14 mins      ███████████░░░░░░░░░░░░░░   42.11 % 
-ThisWeek                 7 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-系统架构设计                   6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-termux-cloud-plays       2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-ThreadLocal学习            2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+th-pinc-dccockpit        13 hrs 1 min        █████████░░░░░░░░░░░░░░░░   35.42 % 
+ThisWeek                 7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+系统架构设计                   7 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+termux-cloud-plays       2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+ThreadLocal学习            2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 44 mins (97.87%)
+⏱ AI Coding Time: 35 hrs 41 mins (97.01%)
 
-✍️ 42,554 lines written by AI, 68 lines written by hand (99.84% AI-written)
+✍️ 35,397 lines written by AI, 28 lines written by hand (99.92% AI-written)
 
-🔤 36,130,511 Input Tokens, 3,786,763 Output Tokens
+🔤 51,770,128 Input Tokens, 3,699,251 Output Tokens
 
-💵 $3383.66 Estimated AI Cost This Week
+💵 $3136.68 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 1257 AI Prompts
+🧠 50 AI Sessions, 1088 AI Prompts
 
-Claude-Code              34,461 lines        ████████████████████░░░░░   80.59 % 
-Github-Copilot           8,072 lines         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Deepseek                 227 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude-Code              35,114 lines        █████████████████████████   98.94 % 
+Deepseek                 375 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📝 Concise Prompter — average 404 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📝 Concise Prompter — average 423 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -185,7 +185,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 03:57:07 UTC
+ Last Updated on 22/09/2026 03:54:18 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
