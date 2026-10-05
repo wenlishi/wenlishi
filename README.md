@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-340%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,42 +129,42 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Java                     3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Markdown                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Java                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🐱‍💻 Projects: 
-ThisWeek                 8 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.61 % 
-th-pinc-dccockpit        5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-tmp-tfl                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-fwqzh                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-scda-b-win-site          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+ThisWeek                 8 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
+th-pinc-dccockpit        5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+tmp-tfl                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+fwqzh                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+AI视频制作                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 51 mins (99.01%)
+⏱ AI Coding Time: 19 hrs 36 mins (99.15%)
 
-✍️ 4,549 lines written by AI, 19 lines written by hand (99.58% AI-written)
+✍️ 5,861 lines written by AI, 19 lines written by hand (99.68% AI-written)
 
-🔤 3,815,283 Input Tokens, 1,369,018 Output Tokens
+🔤 4,203,329 Input Tokens, 1,653,869 Output Tokens
 
-💵 $745.13 Estimated AI Cost This Week
+💵 $802.83 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 294 AI Prompts
+🧠 17 AI Sessions, 311 AI Prompts
 
-Claude-Code              3,461 lines         ███████████████████░░░░░░   75.45 % 
-Deepseek                 570 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Github-Copilot           556 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Claude-Code              4,778 lines         ████████████████████░░░░░   80.93 % 
+Deepseek                 570 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Github-Copilot           556 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📝 Concise Prompter — average 439 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📄 Detailed Prompter — average 579 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +184,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 04:53:22 UTC
+ Last Updated on 05/10/2026 04:41:10 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
