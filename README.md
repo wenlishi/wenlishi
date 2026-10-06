@@ -129,42 +129,42 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-Java                     3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Python                   3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Java                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+XML                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🐱‍💻 Projects: 
-ThisWeek                 8 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.72 % 
-th-pinc-dccockpit        5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-tmp-tfl                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-fwqzh                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-AI视频制作                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+ThisWeek                 5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
+th-pinc-dccockpit        2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+tmp-tfl                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+fwqzh                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+AI视频制作                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 36 mins (99.15%)
+⏱ AI Coding Time: 13 hrs 51 mins (98.8%)
 
-✍️ 5,861 lines written by AI, 19 lines written by hand (99.68% AI-written)
+✍️ 4,246 lines written by AI, 19 lines written by hand (99.55% AI-written)
 
-🔤 4,203,329 Input Tokens, 1,653,869 Output Tokens
+🔤 2,661,904 Input Tokens, 1,352,160 Output Tokens
 
-💵 $802.83 Estimated AI Cost This Week
+💵 $632.90 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 311 AI Prompts
+🧠 13 AI Sessions, 212 AI Prompts
 
-Claude-Code              4,778 lines         ████████████████████░░░░░   80.93 % 
-Deepseek                 570 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Github-Copilot           556 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Claude-Code              3,130 lines         ██████████████████░░░░░░░   73.54 % 
+Deepseek                 570 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Github-Copilot           556 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📄 Detailed Prompter — average 579 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📄 Detailed Prompter — average 666 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -184,7 +184,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 04:41:10 UTC
+ Last Updated on 06/10/2026 05:27:28 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
