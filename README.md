@@ -88,13 +88,13 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 283 Contributions in the Year 2026
+> 🏆 284 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                155 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌆 Daytime                322 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
-🌃 Evening                292 commits         ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+🌞 Morning                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌆 Daytime                322 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
+🌃 Evening                292 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Friday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Monday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Friday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -129,38 +129,39 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Markdown                 2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Java                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Text                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Java                     4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Other                    4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Markdown                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Text                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🐱‍💻 Projects: 
-注册muse                   3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-th-pinc-dccockpit        2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-ThisWeek                 1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-AI视频制作                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-zxjj                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+th-pinc-dccockpit        4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+注册muse                   3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+ThisWeek                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Unknown Project          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+AI视频制作                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 28 mins (98.49%)
+⏱ AI Coding Time: 16 hrs 29 mins (98.95%)
 
-✍️ 2,298 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,309 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 2,954,512 Input Tokens, 1,158,726 Output Tokens
+🔤 4,388,667 Input Tokens, 1,400,340 Output Tokens
 
-💵 $308.62 Estimated AI Cost This Week
+💵 $338.55 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 78 AI Prompts
+🧠 26 AI Sessions, 137 AI Prompts
 
-Claude-Code              2,328 lines         █████████████████████████   100.00 % 
+Claude-Code              2,339 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,204 characters per prompt
+📚 Verbose Prompter — average 2,399 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -182,7 +183,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 04:55:14 UTC
+ Last Updated on 11/10/2026 04:42:19 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
