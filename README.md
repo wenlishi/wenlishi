@@ -94,7 +94,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2026
+> 🏆 285 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,21 +105,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-🌆 Daytime                322 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌃 Evening                292 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
-🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+🌞 Morning                157 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌆 Daytime                322 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
+🌃 Evening                292 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
+🌙 Night                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Monday                   178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Tuesday                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Friday                   158 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
@@ -129,41 +129,41 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Other                    4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Python                   2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Markdown                 2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Text                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Java                     4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Other                    3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Python                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🐱‍💻 Projects: 
-th-pinc-dccockpit        4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-注册muse                   3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-ThisWeek                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Unknown Project          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-AI视频制作                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+th-pinc-dccockpit        4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+注册muse                   3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+ThisWeek                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Unknown Project          1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+forecastsystem           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 29 mins (98.95%)
+⏱ AI Coding Time: 13 hrs 30 mins (98.72%)
 
-✍️ 2,309 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 706 lines written by AI, 1 lines written by hand (99.86% AI-written)
 
-🔤 4,388,667 Input Tokens, 1,400,340 Output Tokens
+🔤 3,948,915 Input Tokens, 1,072,873 Output Tokens
 
-💵 $338.55 Estimated AI Cost This Week
+💵 $272.26 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 137 AI Prompts
+🧠 23 AI Sessions, 119 AI Prompts
 
-Claude-Code              2,339 lines         █████████████████████████   100.00 % 
+Claude-Code              731 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,399 characters per prompt
+🤖 AI-Driven — 99.86% of written lines came from AI
+📚 Verbose Prompter — average 2,331 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -183,7 +183,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 04:42:19 UTC
+ Last Updated on 12/10/2026 04:57:46 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
