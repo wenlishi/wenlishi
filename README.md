@@ -39,11 +39,11 @@
 
 
 <!-- feed start -->
+- 2026-10-28 [Hutool TreeUtil 列表转树与两遍扫描法](https://blog.puber.top/archives/hutool-list-to-tree-what-it-really-does)
 - 2026-10-11 [博客被 Bing 除名，我是怎么救回来的](https://blog.puber.top/archives/blog-bing-delisted-rescue)
 - 2026-10-10 [不用换网络，借 Gemini 的远端浏览器 5 分钟注册 Muse](https://blog.puber.top/archives/register-muse-with-gemini-spark)
 - 2025-12-2 [使用 JitPack 托管 Spring Boot Starter，实现跨项目的通用模块统一管理](https://blog.puber.top/archives/publish-spring-boot-starter-with-jitpack)
 - 2025-11-29 [Java 异常机制：为什么 if-else 不能替代 throw？](https://blog.puber.top/archives/why-use-exceptions-instead-of-if-else-in-java)
-- 2025-10-25 [Java 并发性能的分析与实践](https://blog.puber.top/archives/java-bing-fa-xing-neng-de-fen-xi-yu-shi-jian)
 <!-- feed end -->
 
 </td></tr>
