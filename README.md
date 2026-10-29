@@ -88,7 +88,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-411%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%2010%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -129,38 +129,38 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     10 hrs 44 mins      ███████████████░░░░░░░░░░   58.03 % 
-Other                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-XML                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Java                     13 hrs 4 mins       ███████████████░░░░░░░░░░   61.86 % 
+Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Markdown                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+XML                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🐱‍💻 Projects: 
-th-pinc-dccockpit        17 hrs 59 mins      ████████████████████████░   97.20 % 
-th-pinc-tile-starter     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+th-pinc-dccockpit        20 hrs 37 mins      ████████████████████████░   97.55 % 
+th-pinc-tile-starter     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 1 min (97.39%)
+⏱ AI Coding Time: 20 hrs 17 mins (95.97%)
 
-✍️ 1,621 lines written by AI, 5 lines written by hand (99.69% AI-written)
+✍️ 1,989 lines written by AI, 5 lines written by hand (99.75% AI-written)
 
-🔤 7,723,314 Input Tokens, 1,371,432 Output Tokens
+🔤 8,203,452 Input Tokens, 1,537,199 Output Tokens
 
-💵 $1172.59 Estimated AI Cost This Week
+💵 $1307.05 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 329 AI Prompts
+🧠 23 AI Sessions, 375 AI Prompts
 
-Claude-Code              1,918 lines         █████████████████████████   99.95 % 
-Vscode                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude-Code              2,250 lines         █████████████████████████   98.38 % 
+Vscode                   37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 0.36% of changed lines were hand-edited
+🤖 AI-Driven — 99.75% of written lines came from AI
+📝 Concise Prompter — average 343 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -180,7 +180,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wenlishi/wenlishi/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 04:39:17 UTC
+ Last Updated on 29/10/2026 04:52:57 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/wenlishi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
